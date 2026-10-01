@@ -1,5 +1,1 @@
-master addition at the top
-line 1
-line 2
-test
-new line in feature1
+master version
